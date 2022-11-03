@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/ismal-hossen-7a7b621ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismal-hossen-7a7b621ba" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19732307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19732307" height="30" width="40" /></a>
 <a href="https://fb.com/ismailfbprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ismailfbprofile" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ismal360bengali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ismal360bengali" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ismail360bengali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ismal360bengali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
